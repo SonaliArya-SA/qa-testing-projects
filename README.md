@@ -1,5 +1,5 @@
 # qa-testing-projects
-This repository contains my manual testing portfolio, featuring test cases with detailed documentation for different industries.
+This repository contains my QA & testing portfolio, featuring test cases with detailed documentation for different industries.
 
 Hello! I’m a Manual QA & Test Engineer with 7+ years of experience across various domains:
 - Social Media
